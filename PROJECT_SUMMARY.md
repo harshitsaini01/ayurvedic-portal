@@ -41,7 +41,7 @@ Click the browser preview button above or open this URL in your browser.
 ### 4. **Contact Page** (`/contact`)
 - Professional contact form with fields:
   - Name
-  - Email
+  - Gmail
   - Phone
   - User Type (Farmer/Dealer/Industry/Other)
   - Message
